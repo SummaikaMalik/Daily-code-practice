@@ -1,0 +1,2 @@
+# Daily-code-practice
+This is my 1st Git Repository. 
